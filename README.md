@@ -12,7 +12,7 @@ Proyek ini merupakan implementasi algoritma K-Nearest Neighbors (KNN) untuk mela
 
 ---
 
-##⚙️ Alur Model
+## ⚙️ Alur Model
 
 | Tahap              | Deskripsi                                             |
 | ------------------ | ----------------------------------------------------- |
