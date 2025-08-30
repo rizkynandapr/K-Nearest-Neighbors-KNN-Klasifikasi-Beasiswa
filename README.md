@@ -28,8 +28,11 @@ Proyek ini merupakan implementasi algoritma K-Nearest Neighbors (KNN) untuk mela
 ## ✨ Fitur Utama
 
 🔍 Implementasi algoritma KNN dengan scikit-learn.
+
 📊 Evaluasi menggunakan confusion matrix & classification report.
+
 🎨 Visualisasi decision boundary dengan matplotlib.
+
 ⚡ Notebook interaktif, mudah dimodifikasi untuk dataset lain.
 
 ---
@@ -50,8 +53,11 @@ jupyter notebook KNN_Rizky_Nanda_Praditia_057.ipynb
 
 ## 🛠️ Teknologi yang Digunakan
 Python 3.x
+
 scikit-learn
+
 NumPy, Pandas
+
 Matplotlib
 
 ---
@@ -59,5 +65,7 @@ Matplotlib
 ## 📊 Hasil
 
 ✅ Model berhasil melakukan klasifikasi data beasiswa.
+
 📈 Evaluasi ditampilkan dalam bentuk confusion matrix dan classification report.
+
 🎨 Visualisasi decision boundary menunjukkan area prediksi model.
